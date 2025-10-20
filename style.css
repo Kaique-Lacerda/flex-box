@@ -8,6 +8,7 @@ flex-direction: row;
 .caixa{
     background-color: purple;
     color: white;
-    width: 100px;
+    width: 200px;
     height: 250px;
+    margin-top:10px
 }
