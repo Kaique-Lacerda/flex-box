@@ -2,10 +2,10 @@
 .conteiner{
 display: flex;
 flex-wrap: wrap;
-align-content: space-around;
+justify-content: space-around;
+flex-direction: row;
 }
 .caixa{
-    display: flex;
     background-color: purple;
     color: white;
     width: 100px;
