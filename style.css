@@ -1,0 +1,10 @@
+
+.conteiner{
+display: flex;
+flex-wrap: wrap;
+align-content: space-around;
+}
+.caixa{
+    background-color: purple;
+    color: white;
+}
